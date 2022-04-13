@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-01T10:27:50 IST" name="Suite" finished-at="2022-02-01T10:29:06 IST" duration-ms="76629">
+    <groups>
+    </groups>
+    <test started-at="2022-02-01T10:27:50 IST" name="Test" finished-at="2022-02-01T10:29:06 IST" duration-ms="76629">
+      <class name="com.qkm1.hybrid.iOS">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:com.qkm1.hybrid.iOS@4f67eb2a]" started-at="2022-02-01T10:27:50 IST" name="startDriver" finished-at="2022-02-01T10:28:52 IST" duration-ms="62270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="test_01()[pri:0, instance:com.qkm1.hybrid.iOS@4f67eb2a]" started-at="2022-02-01T10:28:52 IST" name="test_01" finished-at="2022-02-01T10:29:05 IST" duration-ms="13231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_01 -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:com.qkm1.hybrid.iOS@4f67eb2a]" started-at="2022-02-01T10:29:05 IST" name="quitDriver" finished-at="2022-02-01T10:29:06 IST" duration-ms="1083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.qkm1.hybrid.iOS -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
